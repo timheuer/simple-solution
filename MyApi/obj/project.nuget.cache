@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/+91Xe7vTNyt68J/AgxDphP7Y7sUoUxeJnhRnS/+KvS7Pf7x7VmI5HQ9tTe3djrYON26ad+MzzePWoRA+0MHA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\simple-solution\\MyApi\\MyApi.csproj",
+  "expectedPackageFiles": [
+    "D:\\AppCacheFiles\\nuget\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.netcore.app.ref\\7.0.10\\microsoft.netcore.app.ref.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.windowsdesktop.app.ref\\7.0.10\\microsoft.windowsdesktop.app.ref.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.aspnetcore.app.ref\\7.0.10\\microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.netcore.app.host.win-x64\\7.0.10\\microsoft.netcore.app.host.win-x64.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

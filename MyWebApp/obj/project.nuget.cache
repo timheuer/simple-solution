@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYoTRISL7hjgx+lqCKHqA9pe5tjG+2d7zEKXAwtNsow/UfKsvoh4/PpzUhFmQtnfHW7Jf85+rG+DKHEiogTcfA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\simple-solution\\MyWebApp\\MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "D:\\AppCacheFiles\\nuget\\microsoft.netcore.app.ref\\7.0.10\\microsoft.netcore.app.ref.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.windowsdesktop.app.ref\\7.0.10\\microsoft.windowsdesktop.app.ref.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.aspnetcore.app.ref\\7.0.10\\microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512",
+    "D:\\AppCacheFiles\\nuget\\microsoft.netcore.app.host.win-x64\\7.0.10\\microsoft.netcore.app.host.win-x64.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
